@@ -1,5 +1,5 @@
 # verifytas
-Just yoon-il's repository
 
-Hello everyone!
-This page is just for test version
+Hello, everyone!
+
+This is just yoon-il's repository only for test version
