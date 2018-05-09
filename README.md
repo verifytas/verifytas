@@ -1,6 +1,6 @@
 # verifytas
 
-Hello, everyone
-Just yoon-il's repository
+Hello, everyone!
 
-This is just for test version
+This is just yoon-il's repository
+Only for test version
